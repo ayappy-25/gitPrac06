@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Hello, Git World!\n");
-    printf("私はゲストです。\n");
+    printf("Hello, branch\n");
+    printf("私はayatoです。\n");
     return 0;
 }
